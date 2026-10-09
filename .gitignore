@@ -1,0 +1,25 @@
+# Личные данные, ключи и локальные результаты сборки
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.key
+*.pem
+.env
+.env.*
+local.properties
+secrets.properties
+*token*
+*credentials*
+database-personal.json
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.log
+bin/
+obj/
+.gradle/
+build/
+Builds/
